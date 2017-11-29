@@ -5,7 +5,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AppIDSvc]
 "Start"=dword:00000003
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Appinfo]
-"Start"=dword:00000003
+"Start"=dword:00000002
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ALG]
 "Start"=dword:00000003
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AppMgmt]
@@ -179,7 +179,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SensrSvc]
 "Start"=dword:00000004
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AeLookupSvc]
-"Start"=dword:00000004
+"Start"=dword:00000002
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BDESVC]
 "Start"=dword:00000004
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bthserv]
